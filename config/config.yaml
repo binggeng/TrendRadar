@@ -115,17 +115,3 @@ platforms:
     name: "金十数据"
   - id: "fastbull"
     name: "快讯通"
-
-  # === 社交/短视频/娱乐类 ===
-  - id: "weibo"
-    name: "微博"
-  - id: "douyin"
-    name: "抖音"
-  - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
-  - id: "tieba"
-    name: "贴吧"
-  - id: "zhihu"
-    name: "知乎"
-  - id: "hupu"
-    name: "虎扑"
